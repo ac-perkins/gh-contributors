@@ -12,8 +12,13 @@
 .gh-user {
     margin: 0;
     padding: 0.2em;
-    width: 13em;
-    height: 9em;
+    width: 20em;
+    height: 10em;
     border: 1px solid #666;
     border-radius: 0.2em;
+}
+
+.avatar {
+  width: 100px;
+  float: right;
 }
